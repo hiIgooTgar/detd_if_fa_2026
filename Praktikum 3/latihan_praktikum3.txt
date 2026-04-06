@@ -1,0 +1,24 @@
+1. Buat Rangkaian Kombinasional dari gerbang logika dasar
+   antara lain :
+   - Gerbang logika NAND
+   - Gerbang Logika OR
+   - Gerbang Logika NOR
+   - Gerbang Logika AND
+   - Gerbang Logika XOR
+   - 5 Buah Lampu indikator/ LED
+   masing-masing gerbang diatas mempuyai dua inputan yaitu A dan B yang 
+   dihubungkan dengan 2 buah swicth  yang terhubung ke sumber 
+   tegangan (VCC) dan Ground,  Untuk gerbang NAND dan OR
+2. Outputan dari no pertama dihubungkan sebagai inputan A dan B ke 
+   gerbang logika : 
+   - NAND
+   - OR
+   - NOR
+3. Outputan dari Gerbang Logika NAND dan OR dihubungkan sebagai inputan 
+   ke gerbang logika : 
+   - AND
+3. Dan yang terakhir outputan dari Gerbang Logika NOR dan AND dihubungkan sebagai inputan 
+   ke gerbang logika : 
+   - XOR
+4. Buatlah tabel kebenaranya
+5. Berikan kesimpulan untuk rangkaian kombinasi diatas

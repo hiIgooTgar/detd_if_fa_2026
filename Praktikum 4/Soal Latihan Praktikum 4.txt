@@ -1,0 +1,6 @@
+Buat Rangkaian Kombinasional dari beberapa gerbang logika dasar antara lain Gerbang logika NOR, AND, NAND dan X-NOR (Bobot 50) 
+Rangkai masing-masing gerbang diatas :
+•	Masing-masing gerbang logika diatas merupakan dua inputan yaitu inputan A dan inputan B dengan menggunakan dua buah switch, untuk gerbang NOR inputan A terdapat gerbang NOT dan untuk gerbang X-NOR inputan B terdapat gerbang NOT.
+•	Rangkai outputan dari gerbang di atas, output gerbang NOR dan AND sebagai inputan untuk gerbang logika NAND dan output gerbang NAND dan X-NOR sebagai inputan gerbang logika X-NOR.
+•	Outputan dari gerbang NAND dan X-NOR sabagai Inputan dari gerbang X-OR.
+•	Buat fungsi Aljabar Boolean dari masing-masing gerbang dan tabel kebenaranya.
